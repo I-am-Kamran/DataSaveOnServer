@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataSaveOnServer</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact</string>
+    <string name="name">Name</string>
+</resources>
